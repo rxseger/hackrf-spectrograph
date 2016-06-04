@@ -1,0 +1,29 @@
+{
+  "author": "",
+  "bin": {
+    "hackrf-spectrograph": "index.js"
+  },
+  "dependencies": {
+    "babar": "^0.0.3",
+    "hackrf-stream": "^0.0.1",
+    "stft": "^0.0.0"
+  },
+  "description": "",
+  "devDependencies": {},
+  "directories": {},
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "mappum@gmail.com",
+      "name": "mappum"
+    }
+  ],
+  "name": "hackrf-spectrograph",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3"
+}
