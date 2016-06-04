@@ -8,7 +8,7 @@
     "hackrf-stream": "^0.0.1",
     "stft": "^0.0.0"
   },
-  "description": "",
+  "description": "display a graph of frequencies received by hackrf",
   "devDependencies": {},
   "directories": {},
   "license": "MIT",
